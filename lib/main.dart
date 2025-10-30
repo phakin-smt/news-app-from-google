@@ -6,8 +6,8 @@ import 'services/news_api.dart';
 import 'services/local_store.dart';
 
 void main() {
-  const apiKey = '0f13c7c200mshde570654bb19b7dp1d3d60jsnbaf4afd136bf';
-  const host = 'google-news13.p.rapidapi.com';
+  const apiKey = 'api-key-goes-here';
+  const host = 'host-goes-here';
 
   runApp(GetMaterialApp(
     title: 'News App',
