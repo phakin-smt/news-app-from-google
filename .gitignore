@@ -1,0 +1,27 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Flutter/Flutter.podspec
+ios/Pods/
+macos/Pods/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+web/.dart_tool/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# Generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+coverage/
+*.log
+
+# Platform junk
+.DS_Store
+Thumbs.db
